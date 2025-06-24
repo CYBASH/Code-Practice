@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Logs and databases
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code settings
+.vscode/

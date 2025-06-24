@@ -1,5 +1,3 @@
-/*   */
-
 // MAX WEIGHT 7000
 //  0 - 2000 , 2001 - 4000 , 4000 +
 //  25  ,       35          ,   45
@@ -24,7 +22,7 @@ int main() {
     } else if (weight > 4000) {
         printf("Time Estimated: 45 minutes");
     }
-    
+
 
     return 0;
 }

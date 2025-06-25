@@ -1,4 +1,4 @@
-// Floyed Triangle
+// Floyd Triangle
 
 #include<stdio.h>
 

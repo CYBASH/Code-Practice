@@ -1,0 +1,9 @@
+Concepts:   Numbers / 
+
+armstrong number / Narcissistic Number
+nivens number / harshd number
+happy number
+Krishnamurthy number / strong number
+automrphic number
+adam number
+magic number

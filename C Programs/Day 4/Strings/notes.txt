@@ -1,0 +1,5 @@
+String functions:
+    strlen(str)
+    strcpy(a,b)
+    strcat(a,b)
+    strcmp(a,b)  -> Boolean Output

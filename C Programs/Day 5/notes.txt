@@ -1,0 +1,16 @@
+Tower of Hanoi Formula : (2^n)-1
+
+Certification Cources:
+    1. Redhat Certification: RH-104 , RH-124 , RH-134 , Redhat OPEN Stack , Cloud Native Integration , Linux Diagnosting and 
+    2. Azure az-900 , al-900 , pz-900 , pl-900
+    3. AWS process associate
+    4. Python With Google Cloud Platform Training
+
+
+
+https://www.theknowledgeacademy.com/in/offers/amazon-aws-certification-training-courses/?utm_term=aws%20certification&utm_campaign=%5BAWS+Training%5D%5BIN%5D&utm_source=bing&utm_medium=ppc&utm_content=%5BAWS%5D%5BCertification%5D#courses
+courseera
+
+
+
+--> Double Pointers
